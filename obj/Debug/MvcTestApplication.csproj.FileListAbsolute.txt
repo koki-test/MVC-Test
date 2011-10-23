@@ -1,0 +1,5 @@
+C:\Users\MonoBizToCode\Documents\B2CDocs\Git\MVC-Test\bin\MvcTestApplication.dll
+C:\Users\MonoBizToCode\Documents\B2CDocs\Git\MVC-Test\bin\MvcTestApplication.pdb
+C:\Users\MonoBizToCode\Documents\B2CDocs\Git\MVC-Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MonoBizToCode\Documents\B2CDocs\Git\MVC-Test\obj\Debug\MvcTestApplication.dll
+C:\Users\MonoBizToCode\Documents\B2CDocs\Git\MVC-Test\obj\Debug\MvcTestApplication.pdb
